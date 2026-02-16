@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MrDru912
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, python and git
-- 📫 How to reach me ...
+🎓 Master’s in Computer Science — Software Engineering  
+🔐 Interested in cybersecurity and working on projects that solve real problems.
+- 📫 How to reach me: mamaeand@gmail.com
 
 <!---
 MrDru912/MrDru912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
